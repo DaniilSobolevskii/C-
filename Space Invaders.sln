@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Invaders", "Space Invaders\Space Invaders.csproj", "{EF2C8090-24C3-4AF2-BF0D-9E6CE291E615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space2", "space2\space2.csproj", "{4DEF0CB0-4AE5-4F6A-A5C3-1B9DF7D0F81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gladiators", "Gladiators\Gladiators.csproj", "{2BBB360B-1605-472D-9E39-C6A05F47AB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2C8090-24C3-4AF2-BF0D-9E6CE291E615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2C8090-24C3-4AF2-BF0D-9E6CE291E615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2C8090-24C3-4AF2-BF0D-9E6CE291E615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2C8090-24C3-4AF2-BF0D-9E6CE291E615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEF0CB0-4AE5-4F6A-A5C3-1B9DF7D0F81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEF0CB0-4AE5-4F6A-A5C3-1B9DF7D0F81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEF0CB0-4AE5-4F6A-A5C3-1B9DF7D0F81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEF0CB0-4AE5-4F6A-A5C3-1B9DF7D0F81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBB360B-1605-472D-9E39-C6A05F47AB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBB360B-1605-472D-9E39-C6A05F47AB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBB360B-1605-472D-9E39-C6A05F47AB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBB360B-1605-472D-9E39-C6A05F47AB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
